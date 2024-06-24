@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning MERN Stack Tutorial - some project
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : phone _ 0563650708 || email : tthieu.dev.02@gmail.com || facebook : tt.hieu.22
+- 📫 How to reach me : phone _ 0563650708 || email : tthieu.dev.02@gmail.com || facebook : https://www.facebook.com/tt.hieu.22
 - 😄 Pronouns: Hieu
 - ⚡ Fun fact: I'm single and I'm looking for a girlfriend
 
