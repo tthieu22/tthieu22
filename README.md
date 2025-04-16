@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : phone: 0563650708 || email : tthieu.dev.02@gmail.com || facebook : https://www.facebook.com/tt.hieu.22
 - 😄 Pronouns: Hieu
-- ⚡ Fun fact: I'm single and I'm looking for a girlfriend
 
 <!---
 tthieu22/tthieu22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
